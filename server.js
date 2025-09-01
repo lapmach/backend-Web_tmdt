@@ -3,7 +3,6 @@ const cors = require('cors');
 const jwt = require('jsonwebtoken');
 const app = express();
 const JWT_SECRET = 'product_MANAGER_SECRET';
-import { createServerlessHandler } from "@vercel/node";
 const port = 5100;
 app.use(cors());
 app.use(express.json());
@@ -550,7 +549,7 @@ app.delete('/api/notes/:id', authenticateJWT, (req, res) => {
     notes.splice(noteIndex, 1);
     res.status(204).send();
 });
-// app.listen(port, () => console.log(`Server chạy tại http://localhost:${port}`));
+app.listen(port, () => console.log(`Server chạy tại http://localhost:${port}`));
 
-// export cho vercel
-export default createServerlessHandler(app);
+// // export cho vercel
+// export default createServerlessHandler(app);
