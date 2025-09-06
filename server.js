@@ -208,7 +208,7 @@ let products = [
         listSize: [30, 31, 32, 33, 34, 35, 36]
     },
     {
-        id: "13", name: "Áo khoác trẻ em", price: 100000, img: "https://img.lazcdn.com/g/p/4aca487431162b90f86e3fc9186fdf3b.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: formatDay(), categoriesId: "4", brand: "Minime", checked: false
+        id: "13", name: "Áo khoác trẻ em", price: 100000, img: "https://img.lazcdn.com/g/p/4aca487431162b90f86e3fc9186fdf3b.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: "05/02/2025", categoriesId: "4", brand: "Minime", checked: false
         , listImg: [
             "https://img.lazcdn.com/g/p/03e761230d42b5e07da524ed704c46e6.jpg_720x720q80.jpg_.webp",
             "https://img.lazcdn.com/g/p/047f364c149c86c7ae7cd81fd2d82ccb.jpg_120x120q80.jpg_.webp",
@@ -228,7 +228,7 @@ let products = [
         listSize: [30, 31, 32, 33, 34, 35, 36]
     },
     {
-        id: "15", name: "Máy ảnh Canon 4K", price: 10000000, img: "https://img.lazcdn.com/g/p/a037098972ab14a65aa9a46266d8e46e.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: formatDay(), categoriesId: "9", brand: "Canon", checked: false
+        id: "15", name: "Máy ảnh Canon 4K", price: 10000000, img: "https://img.lazcdn.com/g/p/a037098972ab14a65aa9a46266d8e46e.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: "05/02/2025", categoriesId: "9", brand: "Canon", checked: false
         , listImg: [
             "https://img.lazcdn.com/g/p/03e761230d42b5e07da524ed704c46e6.jpg_720x720q80.jpg_.webp",
             "https://img.lazcdn.com/g/p/047f364c149c86c7ae7cd81fd2d82ccb.jpg_120x120q80.jpg_.webp",
@@ -238,7 +238,7 @@ let products = [
         listSize: [30, 31, 32, 33, 34, 35, 36]
     },
     {
-        id: "16", name: "Máy ảnh cho trẻ em", price: 2000000, img: "https://img.lazcdn.com/g/p/542316ebe741d4c39d07a537fe9c8ec2.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: formatDay(), categoriesId: "9", brand: "LG", checked: false
+        id: "16", name: "Máy ảnh cho trẻ em", price: 2000000, img: "https://img.lazcdn.com/g/p/542316ebe741d4c39d07a537fe9c8ec2.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: "05/02/2025", categoriesId: "9", brand: "LG", checked: false
         , listImg: [
             "https://img.lazcdn.com/g/p/03e761230d42b5e07da524ed704c46e6.jpg_720x720q80.jpg_.webp",
             "https://img.lazcdn.com/g/p/047f364c149c86c7ae7cd81fd2d82ccb.jpg_120x120q80.jpg_.webp",
@@ -248,7 +248,7 @@ let products = [
         listSize: [30, 31, 32, 33, 34, 35, 36]
     },
     {
-        id: "17", name: "Váy nữ cao cấp", price: 200000, img: "https://img.lazcdn.com/g/p/4915242e63d432bd97491351422b5904.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: formatDay(), categoriesId: "6", brand: "Women", checked: false
+        id: "17", name: "Váy nữ cao cấp", price: 200000, img: "https://img.lazcdn.com/g/p/4915242e63d432bd97491351422b5904.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: "05/02/2025", categoriesId: "6", brand: "Women", checked: false
         , listImg: [
             "https://img.lazcdn.com/g/p/03e761230d42b5e07da524ed704c46e6.jpg_720x720q80.jpg_.webp",
             "https://img.lazcdn.com/g/p/047f364c149c86c7ae7cd81fd2d82ccb.jpg_120x120q80.jpg_.webp",
@@ -258,7 +258,7 @@ let products = [
         listSize: [30, 31, 32, 33, 34, 35, 36]
     },
     {
-        id: "18", name: "Nước hoa Blue Channel cao cấp", price: 2000000, img: "https://img.lazcdn.com/g/p/9fd314fe7c15a79c345f4982b99dbd44.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: formatDay(), categoriesId: "7", brand: "Channel", checked: false
+        id: "18", name: "Nước hoa Blue Channel cao cấp", price: 2000000, img: "https://img.lazcdn.com/g/p/9fd314fe7c15a79c345f4982b99dbd44.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: "05/02/2025", categoriesId: "7", brand: "Channel", checked: false
         , listImg: [
             "https://img.lazcdn.com/g/p/03e761230d42b5e07da524ed704c46e6.jpg_720x720q80.jpg_.webp",
             "https://img.lazcdn.com/g/p/047f364c149c86c7ae7cd81fd2d82ccb.jpg_120x120q80.jpg_.webp",
@@ -268,7 +268,7 @@ let products = [
         listSize: [30, 31, 32, 33, 34, 35, 36]
     },
     {
-        id: "19", name: "Dây kháng lực thể dục", price: 2000000, img: "https://img.lazcdn.com/g/p/d8980fe917e83ba6c3e35edb4c0a008a.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: formatDay(), categoriesId: "10", brand: "GYM", checked: false
+        id: "19", name: "Dây kháng lực thể dục", price: 2000000, img: "https://img.lazcdn.com/g/p/d8980fe917e83ba6c3e35edb4c0a008a.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: "05/02/2025", categoriesId: "10", brand: "GYM", checked: false
         , listImg: [
             "https://img.lazcdn.com/g/p/03e761230d42b5e07da524ed704c46e6.jpg_720x720q80.jpg_.webp",
             "https://img.lazcdn.com/g/p/047f364c149c86c7ae7cd81fd2d82ccb.jpg_120x120q80.jpg_.webp",
@@ -278,7 +278,7 @@ let products = [
         listSize: [30, 31, 32, 33, 34, 35, 36]
     },
     {
-        id: "20", name: "Tạ nâng 20kg", price: 2000000, img: "https://img.lazcdn.com/g/p/6531d885fdef7a41d97acacbf9e1f206.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: formatDay(), categoriesId: "10", brand: "NESGYN", checked: false
+        id: "20", name: "Tạ nâng 20kg", price: 2000000, img: "https://img.lazcdn.com/g/p/6531d885fdef7a41d97acacbf9e1f206.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: "05/02/2025", categoriesId: "10", brand: "NESGYN", checked: false
         , listImg: [
             "https://img.lazcdn.com/g/p/03e761230d42b5e07da524ed704c46e6.jpg_720x720q80.jpg_.webp",
             "https://img.lazcdn.com/g/p/047f364c149c86c7ae7cd81fd2d82ccb.jpg_120x120q80.jpg_.webp",
@@ -298,7 +298,7 @@ let products = [
         listSize: [30, 31, 32, 33, 34, 35, 36]
     },
     {
-        id: "22", name: "Laptop Dell 5300i", price: 12000000, img: "https://img.lazcdn.com/g/p/994ba33745d4d9e2704f1d7985f2d74d.png_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: formatDay(), categoriesId: "11", brand: "Dell", checked: false
+        id: "22", name: "Laptop Dell 5300i", price: 12000000, img: "https://img.lazcdn.com/g/p/994ba33745d4d9e2704f1d7985f2d74d.png_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: "05/02/2025", categoriesId: "11", brand: "Dell", checked: false
         , listImg: [
             "https://img.lazcdn.com/g/p/03e761230d42b5e07da524ed704c46e6.jpg_720x720q80.jpg_.webp",
             "https://img.lazcdn.com/g/p/047f364c149c86c7ae7cd81fd2d82ccb.jpg_120x120q80.jpg_.webp",
@@ -308,7 +308,7 @@ let products = [
         listSize: [30, 31, 32, 33, 34, 35, 36]
     },
     {
-        id: "23", name: "Sách tiếng việt lớp 2", price: 10000, img: "https://img.lazcdn.com/g/p/a2bafd35c570f2fd9fedd07d8ce723b4.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: formatDay(), categoriesId: "11", brand: "Dell", checked: false
+        id: "23", name: "Sách tiếng việt lớp 2", price: 10000, img: "https://img.lazcdn.com/g/p/a2bafd35c570f2fd9fedd07d8ce723b4.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: "05/02/2025", categoriesId: "12", brand: "Dell", checked: false
         , listImg: [
             "https://img.lazcdn.com/g/p/03e761230d42b5e07da524ed704c46e6.jpg_720x720q80.jpg_.webp",
             "https://img.lazcdn.com/g/p/047f364c149c86c7ae7cd81fd2d82ccb.jpg_120x120q80.jpg_.webp",
@@ -318,7 +318,7 @@ let products = [
         listSize: [30, 31, 32, 33, 34, 35, 36]
     },
     {
-        id: "24", name: "Sách tư duy ngược và tư duy mở", price: 120000, img: "https://img.lazcdn.com/g/p/102a09f0e8a5326b5f4f26ce595a1d36.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: formatDay(), categoriesId: "11", brand: "Dell", checked: false
+        id: "24", name: "Sách tư duy ngược và tư duy mở", price: 120000, img: "https://img.lazcdn.com/g/p/102a09f0e8a5326b5f4f26ce595a1d36.jpg_400x400q75.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: formatDay(), categoriesId: "12", brand: "Dell", checked: false
         , listImg: [
             "https://img.lazcdn.com/g/p/03e761230d42b5e07da524ed704c46e6.jpg_720x720q80.jpg_.webp",
             "https://img.lazcdn.com/g/p/047f364c149c86c7ae7cd81fd2d82ccb.jpg_120x120q80.jpg_.webp",
