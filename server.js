@@ -158,7 +158,7 @@ let products = [
         ]
     },
     {
-        id: "8", name: "Giày thể thao nữ thoải mái sang trọng", price: 4000, img: "https://img.lazcdn.com/g/p/95a203d1ff6f3b1b42e994ebc9e1f34d.jpg_400x400q80.jpg_.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: formatDay(), categoriesId: "5", brand: "Adidas", checked: false
+        id: "8", name: "Giày thể thao nữ thoải mái sang trọng", price: 4000, img: "https://img.lazcdn.com/g/p/95a203d1ff6f3b1b42e994ebc9e1f34d.jpg_400x400q80.jpg_.avif", description: "Gồm có 2 miếng gà được chế biến sẵn ăn liền không cần chế biến lại", createdAt: "07/06/2025", categoriesId: "5", brand: "Adidas", checked: false
         , listImg: [
             "https://img.lazcdn.com/g/p/03e761230d42b5e07da524ed704c46e6.jpg_720x720q80.jpg_.webp",
             "https://img.lazcdn.com/g/p/047f364c149c86c7ae7cd81fd2d82ccb.jpg_120x120q80.jpg_.webp",
